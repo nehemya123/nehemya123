@@ -2,7 +2,8 @@
 
 **Keep learning, keep building, keep growing.**
 
-🎓 Computer Science student at Inver Hills Community College  
+🎓 Junior @ University of Minnesota Twin Cities
+B.S. in Computer Science, Minor in Management of Technology (MOT) (Expected May 2027) 
 🚀 Aspiring software developer with interests in game development, programming, and technology
 
 ---
