@@ -12,7 +12,7 @@ B.S. in Computer Science, Minor in Management of Technology (MOT) (Expected May 
 
 I'm a motivated computer science student who enjoys learning by building real projects and solving problems step by step. I like challenging myself with coding projects, exploring new technologies, and growing both technically and personally.
 
-- 💻 **Passionate about tech:** I enjoy programming, software development, and building projects with Python and C++.
+- 💻 **Passionate about tech:** I enjoy programming, software development, and building projects.
 - 🎮 **Game development learner:** I’m working on my own game project called **War Machine** and currently focusing on 2D game development.
 - 🤝 **Leadership & teaching:** I serve in my church media team and help with editing, posting, and capturing videos and photos. I also work with students through STEM learning experiences.
 - 🌍 **Background:** Originally from Ethiopia, now studying in the U.S. and continuing to grow through education, work, and hands-on experience.
@@ -22,13 +22,14 @@ I'm a motivated computer science student who enjoys learning by building real pr
 ## 🛠️ Technical Skills
 
 **Languages:**  
-Python • C++ • Java • HTML • CSS • JavaScript
+Python • C++ • Java • HTML • CSS • JavaScript • SQL • R
+
 
 **Concepts:**  
 Object-Oriented Programming • Data Structures • Algorithms • Game Development Basics • Software Development
 
 **Tools:**  
-Git • GitHub • VS Code • Linux • Visual Studio
+Git • GitHub • VS Code • Linux • Visual Studio • Intellij • Google Colab • jupyter notebook
 
 ---
 
@@ -59,14 +60,6 @@ Git • GitHub • VS Code • Linux • Visual Studio
 **LR Ethiopia Medical Manufacturing** — 2018–2021  
 - Worked in medical manufacturing with a focus on precision and quality.
 
-### Patient Transportation Specialist
-**Alert Hospital** — 2021–2023  
-- Assisted patients and supported hospital operations.
-
-### M Health Fairview Ridges Hospital
-**Burnsville, MN** — 2024–Present  
-- Gaining healthcare workplace experience while continuing academic and technical growth.
-
 ---
 
 ## 🎯 Interests
@@ -77,18 +70,18 @@ Artificial Intelligence • Game Development • Software Engineering • Roboti
 
 ## 📚 Education
 
-**Inver Hills Community College**  
+**University of Minnesota Twin Cities**  
 Computer Science Student
 
 **Future Goal:**  
-Transfer and continue growing in computer science while building strong technical and career experience.
+continue growing in computer science while building strong technical and career experience.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(add your LinkedIn link here)*
-- Email: *(add your email here)*
+- LinkedIn: *www.linkedin.com/in/nehemya-assefa*
+- Email: *assef044@umn.edu*
 
 ---
 
