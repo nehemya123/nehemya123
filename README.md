@@ -12,10 +12,13 @@ B.S. in Computer Science, Minor in Management of Technology (MOT) (Expected May 
 
 I'm a motivated computer science student who enjoys learning by building real projects and solving problems step by step. I like challenging myself with coding projects, exploring new technologies, and growing both technically and personally.
 
-- 💻 **Passionate about tech:** I enjoy programming, software development, and building projects.
-- 🎮 **Game development learner:** I’m working on my own game project called **War Machine** and currently focusing on 2D game development.
-- 🤝 **Leadership & teaching:** I serve in my church media team and help with editing, posting, and capturing videos and photos. I also work with students through STEM learning experiences.
-- 🌍 **Background:** Originally from Ethiopia, now studying in the U.S. and continuing to grow through education, work, and hands-on experience.
+- 💻 **Passionate about technology:** I enjoy programming, software development, and building projects that strengthen my problem-solving and technical skills.
+
+- 🤖 **AI & intelligent systems enthusiast:** I enjoy exploring artificial intelligence concepts and applying them to projects such as game AI, recommendation systems, and smart applications that use algorithms and decision making logic.
+
+- 🤝 **Leadership & teaching:** I actively serve on my church’s media team, where I help with video editing, photography, and content posting. I also work with students through STEM programs, helping them learn coding and basic technology skills.
+
+- 🌍 **Background:** Originally from Ethiopia, I am now studying in the United States and continuously working to grow through education, professional experience, and hands-on technical projects.
 
 ---
 
@@ -26,7 +29,7 @@ Python • C++ • Java • HTML • CSS • JavaScript • SQL • R
 
 
 **Concepts:**  
-Object-Oriented Programming • Data Structures • Algorithms • Game Development Basics • Software Development
+Object Oriented Programming • Data Structures • Algorithms • Game Development Basics • Software Development
 
 **Tools:**  
 Git • GitHub • VS Code • Linux • Visual Studio • Intellij • Google Colab • jupyter notebook
@@ -35,30 +38,37 @@ Git • GitHub • VS Code • Linux • Visual Studio • Intellij • Google C
 
 ## 🌟 Projects
 
-### War Machine
-- A 2D game project I am currently building using Python.
-- Focused on creating gameplay systems while improving my programming skills.
+### AI Chess Engine
+- Built a fully playable chess game where a human competes against an AI opponent. 
+- The engine uses the Minimax algorithm with Alpha Beta Pruning to search move trees efficiently and make strategic decisions.
 
-### Nand2Tetris Projects
-- Built projects including an **Assembler**, **VM Translator**, **Syntax Analyzer**, and **Compiler**.
-- Strengthened my understanding of low-level computing, compilers, and software systems.
+### Smart AI Calculator
+- A web based calculator that goes beyond basic arithmetic
+- parses and solves natural math expressions, algebraic equations, and percentage problems in real time directly in the browser.
+
+### AI Game Recommender
+- A Java application that recommends games to users based on genre similarity scoring.
+- Designed with clean OOP principles extensible, maintainable, and built to scale with larger game catalogs.
 
 ### C++ Simulation and Programming Projects
-- Worked on class-based C++ projects involving motion, robots, lights, and object-oriented design.
+- Worked on class based C++ projects involving motion, robots, lights, and object-oriented design.
 - Practiced debugging, UML, inheritance, polymorphism, and teamwork in software projects.
 
 ---
 
 ## 🌱 Experience & Growth
 
-### Summer STEM Assistant Instructor Intern
+### Summer STEM Technical Instructor Intern
 **TechAcademy** — Summer 2025  
 - Helped teach students ages 12+ coding, robotics, Legos, and basic technology skills.
-- Supported hands-on STEM activities and encouraged problem-solving.
+- Supported hands on STEM activities and encouraged problem-solving.
 
-### Medical Assembly Technician
-**LR Ethiopia Medical Manufacturing** — 2018–2021  
-- Worked in medical manufacturing with a focus on precision and quality.
+### GN Resound Company                                                                                                                               Hearing Aid Restoration Specialist Intern                                                                                                            
+- Restored and tested hearing aids to ensure optimal sound quality and performance. 
+- Conducted detailed quality control checks to maintain high product standards. 
+- Collaborated with engineers and technicians to streamline the repair process. 
+- Operated precision tools in a clean-room environment for device restoration. 
+
 
 ---
 
@@ -71,7 +81,7 @@ Artificial Intelligence • Game Development • Software Engineering • Roboti
 ## 📚 Education
 
 **University of Minnesota Twin Cities**  
-Computer Science Student
+Computer Science Student B.S
 
 **Future Goal:**  
 continue growing in computer science while building strong technical and career experience.
