@@ -107,6 +107,7 @@ continue growing in computer science while building strong technical and career 
 
 - LinkedIn: *www.linkedin.com/in/nehemya-assefa*
 - Email: *assef044@umn.edu*
+- GitHub: nehemya123.github.io
 
 ---
 
