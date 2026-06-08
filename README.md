@@ -2,7 +2,7 @@
 
 **Keep learning, keep building, keep growing.**
 
-🎓 Junior @ University of Minnesota Twin Cities
+🎓 senior @ University of Minnesota Twin Cities
 B.S. in Computer Science, Minor in Management of Technology (MOT) (Expected May 2027) 
 🚀 Aspiring software developer with interests in game development, programming, and technology
 
@@ -38,17 +38,17 @@ Git • GitHub • VS Code • Linux • Visual Studio • Intellij • Google C
 
 ## 🌟 Projects
 
-### AI Chess Engine
-- Built a fully playable chess game where a human competes against an AI opponent. 
-- The engine uses the Minimax algorithm with Alpha Beta Pruning to search move trees efficiently and make strategic decisions.
+### AI Chatbot | Python, NLP
+• Created a chatbot that responds to user questions through a conversational interface
+• Implemented intent recognition and response-routing logic using Python
 
 ### Smart AI Calculator
 - A web based calculator that goes beyond basic arithmetic
 - parses and solves natural math expressions, algebraic equations, and percentage problems in real time directly in the browser.
 
-### AI Game Recommender
-- A Java application that recommends games to users based on genre similarity scoring.
-- Designed with clean OOP principles extensible, maintainable, and built to scale with larger game catalogs.
+### AI Chess Engine | Python, Minimax, Alpha-Beta Pruning
+• Developed a playable chess game with an AI opponent using Minimax and Alpha-Beta pruning algorithms
+• Implemented game-state evaluation, legal move validation, and checkmate detection
 
 ### C++ Simulation and Programming Projects
 - Worked on class based C++ projects involving motion, robots, lights, and object-oriented design.
@@ -59,6 +59,21 @@ Git • GitHub • VS Code • Linux • Visual Studio • Intellij • Google C
 ## 🌱 Experience & Growth
 
 ### Summer STEM Technical Instructor Intern
+**Gebeya Inc.** Remote
+**Software Engineering Intern Summer 2026**
+
+• Developed and maintained software features using Python and C++ in a collaborative development environment
+• Built diagnostic tools to identify and troubleshoot software issues more efficiently
+• Participated in code reviews, testing, and debugging to improve application reliability and performance
+• Used GitHub for version control, team collaboration, and project documentation
+
+**Computer Science & Engineering, University of Minnesota Minneapolis, MN**
+**Undergraduate Teaching Assistant Fall 2026**
+
+• Support students in advanced programming topics including debugging, object-oriented programming, and data structures
+• Assist with assignments, office hours, and coding questions to improve student understanding and code quality
+• Create instructional materials and walkthroughs to reinforce course concepts
+
 **TechAcademy** — Summer 2025  
 - Helped teach students ages 12+ coding, robotics, Legos, and basic technology skills.
 - Supported hands on STEM activities and encouraged problem-solving.
