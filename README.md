@@ -1,115 +1,260 @@
-# Hi there, I'm Nehemya Assefa! 👋
+# Hi 👋, I'm **Nehemya Assefa**
 
-**Keep learning, keep building, keep growing.**
+## 💻 Computer Science Student | Software Engineer | AI & C++ Developer
 
-🎓 senior @ University of Minnesota Twin Cities
-B.S. in Computer Science, Minor in Management of Technology (MOT) (Expected May 2027) 
-🚀 Aspiring software developer with interests in game development, programming, and technology
+<div align="center">
+<img src="./banner.png" width="100%" />
+</div>
 
----
-
-## 🚀 About Me
-
-I'm a motivated computer science student who enjoys learning by building real projects and solving problems step by step. I like challenging myself with coding projects, exploring new technologies, and growing both technically and personally.
-
-- 💻 **Passionate about technology:** I enjoy programming, software development, and building projects that strengthen my problem-solving and technical skills.
-
-- 🤖 **AI & intelligent systems enthusiast:** I enjoy exploring artificial intelligence concepts and applying them to projects such as game AI, recommendation systems, and smart applications that use algorithms and decision making logic.
-
-- 🤝 **Leadership & teaching:** I actively serve on my church’s media team, where I help with video editing, photography, and content posting. I also work with students through STEM programs, helping them learn coding and basic technology skills.
-
-- 🌍 **Background:** Originally from Ethiopia, I am now studying in the United States and continuously working to grow through education, professional experience, and hands-on technical projects.
+<h3 align="center">
+University of Minnesota • Software Engineering • AI • C++ • Python • Full Stack Development
+</h3>
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 About Me
 
-**Languages:**  
-Python • C++ • Java • HTML • CSS • JavaScript • SQL • R
+I'm a Computer Science student at the **University of Minnesota – Twin Cities** with a passion for building software that solves real-world problems.
 
+I enjoy designing applications from the ground up—from desktop tools and AI systems to full-stack web applications and networking projects. My interests include software engineering, artificial intelligence, backend development, and system design.
 
-**Concepts:**  
-Object Oriented Programming • Data Structures • Algorithms • Game Development Basics • Software Development
+Currently I'm focused on:
 
-**Tools:**  
-Git • GitHub • VS Code • Linux • Visual Studio • Intellij • Google Colab • jupyter notebook
-
----
-
-## 🌟 Projects
-
-### AI Chatbot | Python, NLP
-• Created a chatbot that responds to user questions through a conversational interface
-• Implemented intent recognition and response-routing logic using Python
-
-### Smart AI Calculator
-- A web based calculator that goes beyond basic arithmetic
-- parses and solves natural math expressions, algebraic equations, and percentage problems in real time directly in the browser.
-
-### AI Chess Engine | Python, Minimax, Alpha-Beta Pruning
-• Developed a playable chess game with an AI opponent using Minimax and Alpha-Beta pruning algorithms
-• Implemented game-state evaluation, legal move validation, and checkmate detection
-
-### C++ Simulation and Programming Projects
-- Worked on class based C++ projects involving motion, robots, lights, and object-oriented design.
-- Practiced debugging, UML, inheritance, polymorphism, and teamwork in software projects.
+- Building production-quality software
+- Learning scalable system architecture
+- Improving algorithms and data structures
+- Preparing for Software Engineering internships
+- Contributing to open-source projects
 
 ---
 
-## 🌱 Experience & Growth
+# 🎓 Education
 
-### Summer STEM Technical Instructor Intern
-**Gebeya Inc.** Remote
-**Software Engineering Intern Summer 2026**
+🏛 **University of Minnesota – Twin Cities**
 
-• Developed and maintained software features using Python and C++ in a collaborative development environment
-• Built diagnostic tools to identify and troubleshoot software issues more efficiently
-• Participated in code reviews, testing, and debugging to improve application reliability and performance
-• Used GitHub for version control, team collaboration, and project documentation
+**B.S. Computer Science**
 
-**Computer Science & Engineering, University of Minnesota Minneapolis, MN**
-**Undergraduate Teaching Assistant Fall 2026**
+Minor: Management of Technology
 
-• Support students in advanced programming topics including debugging, object-oriented programming, and data structures
-• Assist with assignments, office hours, and coding questions to improve student understanding and code quality
-• Create instructional materials and walkthroughs to reinforce course concepts
+GPA: **3.8**
 
-**TechAcademy** — Summer 2025  
-- Helped teach students ages 12+ coding, robotics, Legos, and basic technology skills.
-- Supported hands on STEM activities and encouraged problem-solving.
+Dean's List (2×)
 
-### GN Resound Company                                                                                                                               Hearing Aid Restoration Specialist Intern                                                                                                            
-- Restored and tested hearing aids to ensure optimal sound quality and performance. 
-- Conducted detailed quality control checks to maintain high product standards. 
-- Collaborated with engineers and technicians to streamline the repair process. 
-- Operated precision tools in a clean-room environment for device restoration. 
-
+Expected Graduation: **May 2028**
 
 ---
 
-## 🎯 Interests
+# 💼 Experience
 
-Artificial Intelligence • Game Development • Software Engineering • Robotics • Soccer • Media Production
+## 👨‍💻 Software Engineering Intern — Gebeya Inc.
 
----
-
-## 📚 Education
-
-**University of Minnesota Twin Cities**  
-Computer Science Student B.S
-
-**Future Goal:**  
-continue growing in computer science while building strong technical and career experience.
+- Built software features in Python and C++
+- Collaborated with distributed engineering teams
+- Reviewed pull requests and debugged production code
+- Improved software reliability through testing
 
 ---
 
-## 📫 Connect With Me
+## 💻 C++ Programming Intern — DevAlpha Technologies
 
-- LinkedIn: *www.linkedin.com/in/nehemya-assefa*
-- Email: *assef044@umn.edu*
-- GitHub: nehemya123.github.io
+- Developed C++ applications using OOP
+- Implemented algorithms and data structures
+- Built reusable software components
+- Strengthened debugging and software engineering skills
 
 ---
 
-Thanks for visiting my profile!  
-I’m always learning, building, and working toward becoming a better developer every day. 🚀
+## 🎓 Undergraduate Teaching Assistant — University of Minnesota
+
+- Mentor students in C++ and Data Structures
+- Assist with debugging and programming assignments
+- Help students understand software engineering concepts
+
+---
+
+## 🔧 Hearing Aid Restoration Specialist — GN Resound
+
+- Restored and tested 150+ hearing aids weekly
+- Worked alongside engineers and technicians
+- Maintained strict manufacturing quality standards
+
+---
+
+# 🛠 Technical Skills
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,mysql" />
+
+- C++
+- Python
+- Java
+- JavaScript
+- SQL
+- HTML/CSS
+
+---
+
+## Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+- TensorFlow
+- PyTorch
+- OpenCV
+- Tkinter
+- NumPy
+- OpenPyXL
+- Gmail API
+
+---
+
+## Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Cisco Packet Tracer
+- Jupyter Notebook
+- Google Colab
+- PyInstaller
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 SecureBank
+
+**C++ • HTML • CSS • JavaScript**
+
+A modern banking management system featuring:
+
+- Secure authentication
+- Account management
+- Persistent storage
+- Transaction history
+- Search functionality
+- CSV Export
+
+---
+
+## 📈 CareerTrack
+
+**Python • Gmail API • Tkinter • OpenPyXL**
+
+A desktop application that automatically tracks internship applications.
+
+Features:
+
+- Gmail automation
+- Excel integration
+- Search & filtering
+- Statistics dashboard
+- Packaged desktop application
+
+Saved **2–3 hours** of manual work.
+
+---
+
+## ♟ AI Chess Engine
+
+**Python**
+
+Built an AI chess engine using:
+
+- Minimax
+- Alpha-Beta Pruning
+- Move Evaluation
+- Checkmate Detection
+
+---
+
+## 🌐 Cisco Network Lab
+
+Designed a business network featuring:
+
+- VLANs
+- Inter-VLAN Routing
+- TCP/IP
+- Router Configuration
+- Python Subnet Calculator
+
+---
+
+## 🤖 C++ Simulation Suite
+
+Object-oriented robotics simulation using:
+
+- Inheritance
+- Polymorphism
+- UML Design
+- Team Software Engineering
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nehemya123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehemya123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehemya123&theme=tokyonight&hide_border=true" width="97%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehemya123&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Software Engineering
+- System Design
+- Machine Learning
+- Artificial Intelligence
+- Cloud Computing
+- Backend Development
+
+---
+
+# 🏆 Leadership
+
+### Church Media Technology Director
+
+- Lead live audiovisual production
+- Build and maintain church website
+- Photography & Videography
+- Technical support for church events
+
+---
+
+# 🏅 Honors
+
+- Dean's List (2×)
+- PTK Honor Society
+- Tau Sigma Honor Society
+- NSBE Member
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://nehemya123.github.io)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:assef044@umn.edu)
+
+---
+
+> *"Always learning. Always building."*
+
